@@ -1,4 +1,4 @@
-# File-Organizer-
+# File-Organizer
 this is a file organizer simple program made with java that will help you organize your files with one click
 
 All you have to do is select the folder where your files are stored
